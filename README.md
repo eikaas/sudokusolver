@@ -2,8 +2,14 @@
 Sudoku solver written in C
 UNSW 2008 CS1, First Assignment
 
+## Building
+Just run make
+$ make
+
+
+## Usage
 ```shell
-> cat problem.txt 
+$ cat problem.txt
 . . . . . . . . 5
 . 7 8 . 6 . . . 9
 3 . . 9 . 5 . 8 .
@@ -13,7 +19,8 @@ UNSW 2008 CS1, First Assignment
 . 8 . 1 . 6 . . 7
 7 . . . 5 . 6 1 .
 9 . . . . . . . .
-> cat problem.txt | ./sudokusolver
+
+$ cat problem.txt | ./sudokusolver
 1 9 2  3 7 8  4 6 5 
 5 7 8  4 6 2  1 3 9 
 3 6 4  9 1 5  7 8 2 
