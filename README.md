@@ -1,5 +1,6 @@
 # sudokusolver
 Sudoku solver written in C
+
 UNSW 2008 CS1, First Assignment
 
 ## Building
