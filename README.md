@@ -13,7 +13,7 @@ UNSW 2008 CS1, First Assignment
 . 8 . 1 . 6 . . 7
 7 . . . 5 . 6 1 .
 9 . . . . . . . .
-> cat problem.txt | ./main
+> cat problem.txt | ./sudokusolver
 1 9 2  3 7 8  4 6 5 
 5 7 8  4 6 2  1 3 9 
 3 6 4  9 1 5  7 8 2 
